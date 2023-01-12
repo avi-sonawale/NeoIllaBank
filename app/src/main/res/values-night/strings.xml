@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_search_here">Search</string>
+    <string name="no_data_found">No data found</string>
+    <string name="no_search_data_found">No data found for the searched text</string>
+</resources>
